@@ -1,4 +1,3 @@
-# By KB (A.RP Kerem#7777)
 import discord
 import asyncio
 import sqlite3
