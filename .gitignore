@@ -2,5 +2,4 @@
 *.db-journal
 __pycache__
 token.0
-beni oku.txt
 Token.json
